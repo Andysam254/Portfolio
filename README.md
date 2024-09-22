@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]()
+* You can view the web live on [Portfolio](https://andysam254.github.io/Portfolio/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -23,6 +23,6 @@ HTML, CSS , Fontawesome icons, GIT
 ## Support and contact details
 email :: andygitau444@gmail.com
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](ttps://andysam254.github.io/Portfolio//blob/master/LICENSE.md)*
 
 Copyright (c) 2024 **Samuel Mbugua**
